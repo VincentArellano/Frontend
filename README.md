@@ -1,5 +1,17 @@
 # frontend-palletsync
 
+# How to Run
+
+## NodeJS 
+```
+Install NodeJS
+```
+
+## NPM setup
+```
+npm install -g @vue/cli
+```
+
 ## Project setup
 ```
 npm install
